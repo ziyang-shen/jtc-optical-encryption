@@ -73,6 +73,6 @@ The Python script reads MATLAB graphics data with SciPy, recomputes metrics and 
 - Random-key attack trials, authentication thresholds and false-accept/false-reject statistics are not stored in these two figure files.
 - The previews use English panel identifiers and do not reproduce the MATLAB window styling.
 
-The full thesis is omitted from this public-facing package because its front matter contains student identification and signature fields. No redistribution license is assigned to the supplied test images; their original provenance should be confirmed before reuse.
 
-All repository documentation and helper comments are in English. Original FIG files retain their source labels; the MATLAB viewer translates displayed titles to English without changing the archived files.
+
+
